@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512134861506",
+    "project_id": "myfire-chat-5a44e",
+    "storage_bucket": "myfire-chat-5a44e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512134861506:android:918f0b2a8670bd10fd215b",
+        "android_client_info": {
+          "package_name": "co.aka.myfire_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512134861506-gmk11f2rca328pl1jb55k636fci2i59u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2fTPRfWD2LiGb1chx78nWja_V_Q-9n-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512134861506-gmk11f2rca328pl1jb55k636fci2i59u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
